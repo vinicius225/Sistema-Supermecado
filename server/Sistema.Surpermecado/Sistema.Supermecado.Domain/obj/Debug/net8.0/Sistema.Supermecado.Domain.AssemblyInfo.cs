@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Sistema.Surpermecado")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Sistema.Supermecado.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22de5b4d5eac7bd229e0cac6c1768392a4bf75d5")]
-[assembly: System.Reflection.AssemblyProductAttribute("Sistema.Surpermecado")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Sistema.Surpermecado")]
+[assembly: System.Reflection.AssemblyProductAttribute("Sistema.Supermecado.Domain")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Sistema.Supermecado.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
