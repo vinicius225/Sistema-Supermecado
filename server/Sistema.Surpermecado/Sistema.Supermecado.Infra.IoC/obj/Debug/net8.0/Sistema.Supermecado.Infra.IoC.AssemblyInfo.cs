@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sistema.Supermecado.Infra.IoC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef704db348f65b0879774707ab114cb9981921c9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf70d75c55a9b257711efc238729d6b908054a26")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sistema.Supermecado.Infra.IoC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sistema.Supermecado.Infra.IoC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
