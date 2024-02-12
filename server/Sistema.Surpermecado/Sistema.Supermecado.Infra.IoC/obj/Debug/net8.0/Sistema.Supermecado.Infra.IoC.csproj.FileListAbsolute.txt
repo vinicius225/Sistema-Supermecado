@@ -18,3 +18,5 @@ C:\Users\Vinicius\OneDrive\Área de Trabalho\Projetos\Sistema Supermecado\server
 C:\Users\Vinicius\OneDrive\Área de Trabalho\Projetos\Sistema Supermecado\server\Sistema.Surpermecado\Sistema.Supermecado.Infra.IoC\obj\Debug\net8.0\Sistema.Supermecado.Infra.IoC.pdb
 C:\Users\Vinicius\OneDrive\Área de Trabalho\Projetos\Sistema Supermecado\server\Sistema.Surpermecado\Sistema.Supermecado.Infra.IoC\obj\Debug\net8.0\Sistema.Supermecado.Infra.IoC.genruntimeconfig.cache
 C:\Users\Vinicius\OneDrive\Área de Trabalho\Projetos\Sistema Supermecado\server\Sistema.Surpermecado\Sistema.Supermecado.Infra.IoC\obj\Debug\net8.0\ref\Sistema.Supermecado.Infra.IoC.dll
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Projetos\Sistema Supermecado\server\Sistema.Surpermecado\Sistema.Supermecado.Infra.IoC\bin\Debug\net8.0\Sistema.Supermecado.Aplication.dll
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Projetos\Sistema Supermecado\server\Sistema.Surpermecado\Sistema.Supermecado.Infra.IoC\bin\Debug\net8.0\Sistema.Supermecado.Aplication.pdb

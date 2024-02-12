@@ -7,6 +7,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Microsoft.Extensions.Configuration;
+using Sistema.Supermecado.Aplication.Interfaces;
+using Sistema.Supermecado.Aplication.Services;
+using Sistema.Supermecado.Domain.Interfaces;
+using Sistema.Supermecado.Infra.Data.Repository;
 
 namespace Sistema.Supermecado.Infra.IoC
 {
@@ -17,6 +21,14 @@ namespace Sistema.Supermecado.Infra.IoC
         {
             services.AddDbContext<AppDbContext>(options =>
                 options.UseNpgsql(configuration.GetConnectionString("WebApiDatabase")));
+        }
+        public static void ServicesInjector(this IServiceCollection services)
+        {
+            services.AddScoped<IUsuarioService, UsuarioService>();
+        }
+        public static void RepositoryInjector(this IServiceCollection services)
+        {
+            services.AddScoped<IUsuarioRepository, UsuarioRepository>();
         }
     }
 }

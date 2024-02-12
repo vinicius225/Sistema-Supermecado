@@ -10,3 +10,7 @@ C:\Users\Vinicius\OneDrive\Área de Trabalho\Projetos\Sistema Supermecado\server
 C:\Users\Vinicius\OneDrive\Área de Trabalho\Projetos\Sistema Supermecado\server\Sistema.Surpermecado\Sistema.Supermecado.Aplication\obj\Debug\net8.0\refint\Sistema.Supermecado.Aplication.dll
 C:\Users\Vinicius\OneDrive\Área de Trabalho\Projetos\Sistema Supermecado\server\Sistema.Surpermecado\Sistema.Supermecado.Aplication\obj\Debug\net8.0\Sistema.Supermecado.Aplication.pdb
 C:\Users\Vinicius\OneDrive\Área de Trabalho\Projetos\Sistema Supermecado\server\Sistema.Surpermecado\Sistema.Supermecado.Aplication\obj\Debug\net8.0\ref\Sistema.Supermecado.Aplication.dll
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Projetos\Sistema Supermecado\server\Sistema.Surpermecado\Sistema.Supermecado.Aplication\obj\Debug\net8.0\Sistema.Supermecado.Aplication.csproj.AssemblyReference.cache
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Projetos\Sistema Supermecado\server\Sistema.Surpermecado\Sistema.Supermecado.Aplication\bin\Debug\net8.0\Sistema.Supermecado.Domain.dll
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Projetos\Sistema Supermecado\server\Sistema.Surpermecado\Sistema.Supermecado.Aplication\bin\Debug\net8.0\Sistema.Supermecado.Domain.pdb
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Projetos\Sistema Supermecado\server\Sistema.Surpermecado\Sistema.Supermecado.Aplication\obj\Debug\net8.0\Sistema.Supermecado.Aplication.csproj.CopyComplete

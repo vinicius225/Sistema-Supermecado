@@ -15,6 +15,9 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.DbServicesInjector(config);
+builder.Services.ServicesInjector();
+builder.Services.RepositoryInjector();
+
 
 var app = builder.Build();
 

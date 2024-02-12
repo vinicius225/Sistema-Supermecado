@@ -3,15 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistema.Supermecado.Aplication", "Sistema.Supermecado.Aplication\Sistema.Supermecado.Aplication.csproj", "{94F85CA1-4F20-4EAB-B5E9-1C79F2F97AB9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sistema.Supermecado.Aplication", "Sistema.Supermecado.Aplication\Sistema.Supermecado.Aplication.csproj", "{94F85CA1-4F20-4EAB-B5E9-1C79F2F97AB9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistema.Supermecado.Domain", "Sistema.Supermecado.Domain\Sistema.Supermecado.Domain.csproj", "{C885E85F-5B7F-4F8F-8EEA-1C103CEA7D37}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sistema.Supermecado.Domain", "Sistema.Supermecado.Domain\Sistema.Supermecado.Domain.csproj", "{C885E85F-5B7F-4F8F-8EEA-1C103CEA7D37}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistema.Supermecado.Infra.Data", "Sistema.Supermecado.Infra.Data\Sistema.Supermecado.Infra.Data.csproj", "{A808DAC3-B5A4-43AA-B659-3F46E0C48B53}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sistema.Supermecado.Infra.Data", "Sistema.Supermecado.Infra.Data\Sistema.Supermecado.Infra.Data.csproj", "{A808DAC3-B5A4-43AA-B659-3F46E0C48B53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistema.Supermecado.Infra.IoC", "Sistema.Supermecado.Infra.IoC\Sistema.Supermecado.Infra.IoC.csproj", "{3D1A895E-D359-45EA-841E-67D9A1E777C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sistema.Supermecado.Infra.IoC", "Sistema.Supermecado.Infra.IoC\Sistema.Supermecado.Infra.IoC.csproj", "{3D1A895E-D359-45EA-841E-67D9A1E777C6}"
+	ProjectSection(ProjectDependencies) = postProject
+		{94F85CA1-4F20-4EAB-B5E9-1C79F2F97AB9} = {94F85CA1-4F20-4EAB-B5E9-1C79F2F97AB9}
+		{C885E85F-5B7F-4F8F-8EEA-1C103CEA7D37} = {C885E85F-5B7F-4F8F-8EEA-1C103CEA7D37}
+	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistema.Supermecado.API", "..\Sistema.Supermecado.API\Sistema.Supermecado.API.csproj", "{808FAE71-1CC4-4B7D-8A9C-23314A3CA866}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sistema.Supermecado.API", "..\Sistema.Supermecado.API\Sistema.Supermecado.API.csproj", "{808FAE71-1CC4-4B7D-8A9C-23314A3CA866}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

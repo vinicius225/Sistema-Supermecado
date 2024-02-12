@@ -18,10 +18,12 @@ namespace Sistema.Supermecado.Infra.Data.Repository
             _db = db;
         }
 
-        public async Task Adicionar(Perfil obj)
+        public async Task<Perfil> Adicionar(Perfil obj)
         {
-            await _db.AddAsync(obj);
+            var result = await _db.Perfis.AddAsync(obj);
             await _db.SaveChangesAsync();
+
+            return result.Entity;
         }
 
         public async Task Alterar(Perfil obj)
@@ -35,9 +37,9 @@ namespace Sistema.Supermecado.Infra.Data.Repository
             return _db.Perfis.ToList();
         }
 
-        public async Task<IEnumerable<Perfil>> ListarPorId(int id)
+        public async Task<Perfil> ListarPorId(int id)
         {
-            return _db.Perfis.Where(aq => aq.Id == id).ToList();
+            return _db.Perfis.Where(aq => aq.Id == id).FirstOrDefault();
 
         }
     }

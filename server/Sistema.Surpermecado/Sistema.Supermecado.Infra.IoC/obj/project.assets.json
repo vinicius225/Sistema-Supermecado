@@ -1852,6 +1852,19 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
+      "Sistema.Supermecado.Aplication/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Sistema.Supermecado.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Sistema.Supermecado.Aplication.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Sistema.Supermecado.Aplication.dll": {}
+        }
+      },
       "Sistema.Supermecado.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -6269,6 +6282,11 @@
         "system.xml.xdocument.nuspec"
       ]
     },
+    "Sistema.Supermecado.Aplication/1.0.0": {
+      "type": "project",
+      "path": "../Sistema.Supermecado.Aplication/Sistema.Supermecado.Aplication.csproj",
+      "msbuildProject": "../Sistema.Supermecado.Aplication/Sistema.Supermecado.Aplication.csproj"
+    },
     "Sistema.Supermecado.Domain/1.0.0": {
       "type": "project",
       "path": "../Sistema.Supermecado.Domain/Sistema.Supermecado.Domain.csproj",
@@ -6284,6 +6302,8 @@
     "net8.0": [
       "Microsoft.Extensions.Configuration >= 8.0.0",
       "Microsoft.Extensions.DependencyInjection.Abstractions >= 8.0.0",
+      "Sistema.Supermecado.Aplication >= 1.0.0",
+      "Sistema.Supermecado.Domain >= 1.0.0",
       "Sistema.Supermecado.Infra.Data >= 1.0.0"
     ]
   },
@@ -6314,6 +6334,12 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+            "C:\\Users\\Vinicius\\OneDrive\\Área de Trabalho\\Projetos\\Sistema Supermecado\\server\\Sistema.Surpermecado\\Sistema.Supermecado.Aplication\\Sistema.Supermecado.Aplication.csproj": {
+              "projectPath": "C:\\Users\\Vinicius\\OneDrive\\Área de Trabalho\\Projetos\\Sistema Supermecado\\server\\Sistema.Surpermecado\\Sistema.Supermecado.Aplication\\Sistema.Supermecado.Aplication.csproj"
+            },
+            "C:\\Users\\Vinicius\\OneDrive\\Área de Trabalho\\Projetos\\Sistema Supermecado\\server\\Sistema.Surpermecado\\Sistema.Supermecado.Domain\\Sistema.Supermecado.Domain.csproj": {
+              "projectPath": "C:\\Users\\Vinicius\\OneDrive\\Área de Trabalho\\Projetos\\Sistema Supermecado\\server\\Sistema.Surpermecado\\Sistema.Supermecado.Domain\\Sistema.Supermecado.Domain.csproj"
+            },
             "C:\\Users\\Vinicius\\OneDrive\\Área de Trabalho\\Projetos\\Sistema Supermecado\\server\\Sistema.Surpermecado\\Sistema.Supermecado.Infra.Data\\Sistema.Supermecado.Infra.Data.csproj": {
               "projectPath": "C:\\Users\\Vinicius\\OneDrive\\Área de Trabalho\\Projetos\\Sistema Supermecado\\server\\Sistema.Surpermecado\\Sistema.Supermecado.Infra.Data\\Sistema.Supermecado.Infra.Data.csproj"
             }

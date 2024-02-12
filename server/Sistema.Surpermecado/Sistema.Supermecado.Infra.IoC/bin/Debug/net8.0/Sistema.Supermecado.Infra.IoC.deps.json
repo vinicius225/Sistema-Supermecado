@@ -10,6 +10,8 @@
         "dependencies": {
           "Microsoft.Extensions.Configuration": "8.0.0",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0",
+          "Sistema.Supermecado.Aplication": "1.0.0",
+          "Sistema.Supermecado.Domain": "1.0.0",
           "Sistema.Supermecado.Infra.Data": "1.0.0"
         },
         "runtime": {
@@ -1011,6 +1013,14 @@
           "System.Xml.ReaderWriter": "4.3.0"
         }
       },
+      "Sistema.Supermecado.Aplication/1.0.0": {
+        "dependencies": {
+          "Sistema.Supermecado.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Sistema.Supermecado.Aplication.dll": {}
+        }
+      },
       "Sistema.Supermecado.Domain/1.0.0": {
         "runtime": {
           "Sistema.Supermecado.Domain.dll": {}
@@ -1771,6 +1781,11 @@
       "sha512": "sha512-5zJ0XDxAIg8iy+t4aMnQAu0MqVbqyvfoUVl1yDV61xdo3Vth45oA2FoY4pPkxYAH5f8ixpmTqXeEIya95x0aCQ==",
       "path": "system.xml.xdocument/4.3.0",
       "hashPath": "system.xml.xdocument.4.3.0.nupkg.sha512"
+    },
+    "Sistema.Supermecado.Aplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Sistema.Supermecado.Domain/1.0.0": {
       "type": "project",

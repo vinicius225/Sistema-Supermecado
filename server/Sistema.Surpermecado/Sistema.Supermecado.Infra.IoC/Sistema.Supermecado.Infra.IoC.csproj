@@ -12,7 +12,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Sistema.Supermecado.Infra.Data\Sistema.Supermecado.Infra.Data.csproj" />
+	  <ProjectReference Include="..\Sistema.Supermecado.Domain\Sistema.Supermecado.Domain.csproj" />
+	  <ProjectReference Include="..\Sistema.Supermecado.Infra.Data\Sistema.Supermecado.Infra.Data.csproj" />
+	  <ProjectReference Include="..\Sistema.Supermecado.Aplication\Sistema.Supermecado.Aplication.csproj" />
   </ItemGroup>
 
 </Project>
