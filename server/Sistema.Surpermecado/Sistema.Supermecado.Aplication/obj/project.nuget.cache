@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "ehihaggrJY+XbOqbm+Mb12RMlIQvkG30vuTVdRDKK/tBHv4P2FefUEIjAbrUjIQGv3Xbiib78xZ9YdQI9y93iA==",
+  "dgSpecHash": "Z5yLF1jbQ8xdOV9rpB0BILK6fJaSjc9hzcrG1RAdeYbV+VLGNPGmkBzFY248sxDXTRhNaqEKQXJVryWcwjGVRQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Vinicius\\OneDrive\\Área de Trabalho\\Projetos\\Sistema Supermecado\\server\\Sistema.Surpermecado\\Sistema.Supermecado.Aplication\\Sistema.Supermecado.Aplication.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Vinicius\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\Vinicius\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Vinicius\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Vinicius\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Vinicius\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

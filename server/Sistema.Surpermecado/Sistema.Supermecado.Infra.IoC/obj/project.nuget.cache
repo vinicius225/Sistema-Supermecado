@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "gYlcUydMJnVI21OwdhYpURGi0tvAUH5Yd9hlIVjR7HL4IQ26i3mcYKxUGEZvcDsDA30azRrTTT5/ZyJM21hsGg==",
+  "dgSpecHash": "e869AqzlcGmBC3wiL0G7kyO+vyDgsxUIZRMCE/CVkbNmLb6qWIkUcFrHaXB5N5z9cNEpvBw9h0hglX+3esHhmQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Vinicius\\OneDrive\\Área de Trabalho\\Projetos\\Sistema Supermecado\\server\\Sistema.Surpermecado\\Sistema.Supermecado.Infra.IoC\\Sistema.Supermecado.Infra.IoC.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Vinicius\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Vinicius\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\Vinicius\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Vinicius\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.1\\microsoft.entityframeworkcore.8.0.1.nupkg.sha512",

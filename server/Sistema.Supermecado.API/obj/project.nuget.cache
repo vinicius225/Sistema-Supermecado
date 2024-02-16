@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "MsG4Xti3ZY8xE/+Z1xNO20Wopw5uEjGOk6kcRtObk/bB0/jRfnhqjxDyA5rVOL4v+DCTylrVWWRMM6vwA3WggA==",
+  "dgSpecHash": "eVPM03H3m9WtqxTvAZA/+Ni3GUQLo0ITGHAXdBI3SXCu3N1rycKv6hoWSgC3cuIKrdb3P/WK792HZm/hCytO/g==",
   "success": true,
   "projectFilePath": "C:\\Users\\Vinicius\\OneDrive\\Área de Trabalho\\Projetos\\Sistema Supermecado\\server\\Sistema.Supermecado.API\\Sistema.Supermecado.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Vinicius\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Vinicius\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\Vinicius\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Vinicius\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

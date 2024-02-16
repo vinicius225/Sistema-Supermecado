@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Sistema.Supermecado.Aplication.DTOs;
 using Sistema.Supermecado.Aplication.Interfaces;
 using Sistema.Supermecado.Domain.Entities;
 
@@ -46,7 +47,7 @@ namespace Sistema.Supermecado.API.Controllers
 
         // POST api/<UsuarioController>
         [HttpPost]
-        public async Task<IActionResult> Post([FromBody] Usuario usuario)
+        public async Task<IActionResult> Post([FromBody] UsuarioDTO usuario)
         {
             try
             {
@@ -60,7 +61,7 @@ namespace Sistema.Supermecado.API.Controllers
 
         // PUT api/<UsuarioController>/5
         [HttpPut("{id}")]
-        public async Task<IActionResult> Put([FromBody] Usuario usuario)
+        public async Task<IActionResult> Put([FromBody] UsuarioDTO usuario)
         {
             try
             {

@@ -11,6 +11,7 @@ using Sistema.Supermecado.Aplication.Interfaces;
 using Sistema.Supermecado.Aplication.Services;
 using Sistema.Supermecado.Domain.Interfaces;
 using Sistema.Supermecado.Infra.Data.Repository;
+using Sistema.Supermecado.Aplication.Mapping;
 
 namespace Sistema.Supermecado.Infra.IoC
 {
@@ -25,6 +26,8 @@ namespace Sistema.Supermecado.Infra.IoC
         public static void ServicesInjector(this IServiceCollection services)
         {
             services.AddScoped<IUsuarioService, UsuarioService>();
+
+            services.AddAutoMapper(typeof(MappeamentoDomainParaDTO));
         }
         public static void RepositoryInjector(this IServiceCollection services)
         {

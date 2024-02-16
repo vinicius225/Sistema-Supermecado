@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sistema.Supermecado.Infra.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c17f8adffc1e3b6472e9c56bb1322f3cf1a54266")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49aadf28b212f58c042b8793ad820e63bbd640be")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sistema.Supermecado.Infra.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sistema.Supermecado.Infra.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
