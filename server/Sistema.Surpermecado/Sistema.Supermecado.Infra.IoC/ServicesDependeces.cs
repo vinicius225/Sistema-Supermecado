@@ -26,6 +26,7 @@ namespace Sistema.Supermecado.Infra.IoC
         public static void ServicesInjector(this IServiceCollection services)
         {
             services.AddScoped<IUsuarioService, UsuarioService>();
+            services.AddScoped<IAutenticacaoService, AutenticacaoService>();
 
             services.AddAutoMapper(typeof(MappeamentoDomainParaDTO));
         }

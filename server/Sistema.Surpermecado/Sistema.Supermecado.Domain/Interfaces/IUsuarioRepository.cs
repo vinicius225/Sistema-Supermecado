@@ -8,5 +8,6 @@ namespace Sistema.Supermecado.Domain.Interfaces
 {
     public interface IUsuarioRepository : IRepositotyBase<Usuario>
     {
+        Usuario BuscarPorLogin(string login);
     }
 }

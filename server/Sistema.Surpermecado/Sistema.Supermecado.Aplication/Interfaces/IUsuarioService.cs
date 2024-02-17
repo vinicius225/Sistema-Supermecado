@@ -13,6 +13,7 @@ namespace Sistema.Supermecado.Aplication.Interfaces
         Task<UsuarioDTO> Adicionar(UsuarioDTO user);
         Task Atualizar(UsuarioDTO user);
         Task<Usuario> BuscarPorId(int id);
-       Task<IEnumerable<UsuarioDTO>> Listar();
+        Task<Usuario> BuscarPorLogin(string login);
+        Task<IEnumerable<UsuarioDTO>> Listar();
     }
 }

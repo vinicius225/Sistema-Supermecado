@@ -42,6 +42,11 @@ namespace Sistema.Supermecado.Aplication.Services
             return await _usuarioRepository.ListarPorId(id);
         }
 
+        public async Task<Usuario> BuscarPorLogin(string login)
+        {
+            return  _usuarioRepository.BuscarPorLogin(login);
+        }
+
         public async Task<IEnumerable<UsuarioDTO>> Listar()
         {
             return _mapper.Map<IEnumerable<UsuarioDTO>>(await _usuarioRepository.Listar());

@@ -32,6 +32,11 @@ namespace Sistema.Supermecado.Infra.Data.Repository
             await _db.SaveChangesAsync();
         }
 
+        public Usuario BuscarPorLogin(string login)
+        {
+            return _db.Usuarios.Where(a => a.Email == login).FirstOrDefault();
+        }
+
         public async Task<IEnumerable<Usuario>> Listar()
         {
             return _db.Usuarios.ToList();
