@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wmKNUVx5NYY4xhR72axyaxX2eoMSdFKLL0xKVgQ78wc=",
+  "Hash": "6Cn4hatDgZKz+2xHuQlD9MYjyoPX2wvv9IboGuTiLos=",
   "Source": "Sistema.Supermecado.API",
   "BasePath": "_content/Sistema.Supermecado.API",
   "Mode": "Default",
@@ -47,10 +47,10 @@
       "OriginalItemSpec": "C:\\Users\\Vinicius\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\staticwebassets\\QuickGrid.razor.js"
     },
     {
-      "Identity": "C:\\Users\\Vinicius\\OneDrive\\Área de Trabalho\\Projetos\\Sistema Supermecado\\server\\Sistema.Supermecado.API\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Sistema.Supermecado.API.styles.css",
+      "Identity": "C:\\Users\\Vinicius\\OneDrive\\Área de Trabalho\\Projetos\\Sistema Supermecado\\server\\Sistema.Surpermecado\\Sistema.Supermecado.API\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Sistema.Supermecado.API.styles.css",
       "SourceId": "Sistema.Supermecado.API",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Vinicius\\OneDrive\\Área de Trabalho\\Projetos\\Sistema Supermecado\\server\\Sistema.Supermecado.API\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Vinicius\\OneDrive\\Área de Trabalho\\Projetos\\Sistema Supermecado\\server\\Sistema.Surpermecado\\Sistema.Supermecado.API\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Sistema.Supermecado.API",
       "RelativePath": "Sistema.Supermecado.API.styles.css",
       "AssetKind": "All",
@@ -63,7 +63,7 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Vinicius\\OneDrive\\Área de Trabalho\\Projetos\\Sistema Supermecado\\server\\Sistema.Supermecado.API\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Sistema.Supermecado.API.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Vinicius\\OneDrive\\Área de Trabalho\\Projetos\\Sistema Supermecado\\server\\Sistema.Surpermecado\\Sistema.Supermecado.API\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Sistema.Supermecado.API.styles.css"
     }
   ]
 }
