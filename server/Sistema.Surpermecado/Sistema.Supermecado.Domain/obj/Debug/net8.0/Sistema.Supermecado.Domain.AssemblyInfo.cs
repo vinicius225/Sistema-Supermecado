@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sistema.Supermecado.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5cbac34d82f59052546ed35314ca9b04d1aa44fe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ede703bfda6b1db78ea9768ff7b02ab2971ade82")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sistema.Supermecado.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sistema.Supermecado.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

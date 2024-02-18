@@ -15,7 +15,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sistema.Supermecado.Infra.I
 		{C885E85F-5B7F-4F8F-8EEA-1C103CEA7D37} = {C885E85F-5B7F-4F8F-8EEA-1C103CEA7D37}
 	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sistema.Supermecado.API", "..\Sistema.Supermecado.API\Sistema.Supermecado.API.csproj", "{808FAE71-1CC4-4B7D-8A9C-23314A3CA866}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sistema.Supermecado.API", "Sistema.Supermecado.API\Sistema.Supermecado.API.csproj", "{4C396AEA-48CD-4B46-9672-A4CB9BE178C9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,10 +39,10 @@ Global
 		{3D1A895E-D359-45EA-841E-67D9A1E777C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D1A895E-D359-45EA-841E-67D9A1E777C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D1A895E-D359-45EA-841E-67D9A1E777C6}.Release|Any CPU.Build.0 = Release|Any CPU
-		{808FAE71-1CC4-4B7D-8A9C-23314A3CA866}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{808FAE71-1CC4-4B7D-8A9C-23314A3CA866}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{808FAE71-1CC4-4B7D-8A9C-23314A3CA866}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{808FAE71-1CC4-4B7D-8A9C-23314A3CA866}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C396AEA-48CD-4B46-9672-A4CB9BE178C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C396AEA-48CD-4B46-9672-A4CB9BE178C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C396AEA-48CD-4B46-9672-A4CB9BE178C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C396AEA-48CD-4B46-9672-A4CB9BE178C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
